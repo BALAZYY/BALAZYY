@@ -20,7 +20,7 @@ Currently based in **Vijayawada, India** · Preparing for **MSc Computer Science
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working at **NarneTech Software Solutions** as a **Junior .NET Developer**
+- 🔭 Currently working at **NarneTech Software Solutions** as a **.NET Full Stack Developer**
 - 🌱 Exploring **Angular advanced patterns**, **TypeScript**, and **cloud-ready .NET architecture**
 - 🎯 Building production-grade **ERP** and **CRM** systems used by real businesses
 - 📚 Preparing for a **Master's in Computer Science** in the UK (2026 intake)
@@ -94,22 +94,7 @@ Currently based in **Vijayawada, India** · Preparing for **MSc Computer Science
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BALAZYY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAZYY&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=BALAZYY&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" />
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BALAZYY&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/BALAZYY)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BALAZYY&bg_color=f8f9fb&color=1A5276&line=2E86C1&point=1A5276&area=true&hide_border=true)](https://github.com/BALAZYY)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BALAZYY&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
