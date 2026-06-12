@@ -90,11 +90,11 @@ Currently based in **Vijayawada, India** · Preparing for **MSc Computer Science
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BALAZYY&style=for-the-badge&color=1A5276&label=PROFILE+VIEWS)
-
-![Contributions](https://img.shields.io/github/commit-activity/y/BALAZYY/BALAZYY?style=for-the-badge&color=1A5276&label=CONTRIBUTIONS&logo=github&logoColor=white)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BALAZYY&theme=darkhub&no-frame=true&column=4&margin-w=10)](https://github.com/BALAZYY)
 
 </div>
 
