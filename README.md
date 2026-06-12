@@ -89,15 +89,13 @@ Currently based in **Vijayawada, India** · Preparing for **MSc Computer Science
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BALAZYY&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BALAZYY&hide_border=true&background=0D1117&ring=1A5276&fire=2E86C1&currStreakLabel=2E86C1&sideLabels=2E86C1&currStreakNum=ffffff&sideNums=ffffff&dates=6B8FAE&stroke=1A5276)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 ## 📫 Contact Me
