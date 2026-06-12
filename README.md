@@ -88,15 +88,15 @@ Currently based in **Vijayawada, India** · Preparing for **MSc Computer Science
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
----
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BALAZYY&hide_border=true&background=0D1117&ring=1A5276&fire=2E86C1&currStreakLabel=2E86C1&sideLabels=2E86C1&currStreakNum=ffffff&sideNums=ffffff&dates=6B8FAE&stroke=1A5276)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=BALAZYY&style=for-the-badge&color=1A5276&label=PROFILE+VIEWS)
+
+![Contributions](https://img.shields.io/github/commit-activity/y/BALAZYY/BALAZYY?style=for-the-badge&color=1A5276&label=CONTRIBUTIONS&logo=github&logoColor=white)
 
 </div>
----
 
 ## 📫 Contact Me
 
