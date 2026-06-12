@@ -94,15 +94,17 @@ Currently based in **Vijayawada, India** · Preparing for **MSc Computer Science
 
 <div align="center">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BALAZYY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAZYY&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
 
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BALAZYY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BALAZYY&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=BALAZYY&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAZYY&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BALAZYY&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/BALAZYY)
+
 </div>
 
 <div align="center">
