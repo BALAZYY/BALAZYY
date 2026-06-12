@@ -94,10 +94,15 @@ Currently based in **Vijayawada, India** · Preparing for **MSc Computer Science
 
 <div align="center">
 
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-968-1A5276?style=for-the-badge&logo=github&logoColor=white)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-9%20Days-2E86C1?style=for-the-badge&logo=github&logoColor=white)
-![Member Since](https://img.shields.io/badge/GitHub%20Since-Sep%202023-239120?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
+![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BALAZYY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BALAZYY&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAZYY&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 </div>
 
 <div align="center">
