@@ -74,7 +74,11 @@ Currently based in **Vijayawada, India** · Preparing for **MSc Computer Science
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BALAZYY&bg_color=0D1117&color=1A5276&line=2E86C1&point=2E86C1&area=true&area_color=1A5276&hide_border=true&radius=8)](https://github.com/BALAZYY)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BALAZYY&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0D1117&title_color=2E86C1&icon_color=2E86C1&text_color=ffffff&border_color=1A5276&hide_border=false&rank_icon=github)](https://github.com/BALAZYY)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAZYY&layout=compact&theme=github_dark&bg_color=0D1117&title_color=2E86C1&text_color=ffffff&border_color=1A5276)](https://github.com/BALAZYY)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BALAZYY&bg_color=0D1117&color=2E86C1&line=1A5276&point=2E86C1&area=true&area_color=1A5276&hide_border=false&radius=8)](https://github.com/BALAZYY)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BALAZYY&theme=dark&background=0D1117&border=1A5276&ring=2E86C1&fire=2E86C1&currStreakLabel=2E86C1&sideLabels=2E86C1&dates=ffffff)](https://github.com/BALAZYY)
 
 </div>
 
